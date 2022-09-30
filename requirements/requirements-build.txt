@@ -1,0 +1,8 @@
+buildozer==1.4.0
+distlib==0.3.6
+filelock==3.8.0
+pexpect==4.8.0
+platformdirs==2.5.2
+ptyprocess==0.7.0
+sh==1.14.3
+virtualenv==20.16.5
